@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { FaGoogle, FaGithub } from 'react-icons/fa';
 
 const TLogin = () => {
