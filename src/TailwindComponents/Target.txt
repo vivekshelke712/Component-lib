@@ -1,0 +1,110 @@
+1. Forms and Authentication Components
+Login Form ✅
+Registration Form ✅
+Forgot Password Form
+OTP Verification
+Two-Factor Authentication
+Password Strength Meter
+Profile Update Form
+Address Form
+Contact Form
+Multi-Step Form
+Subscription Form
+Feedback Form
+Form Validation Errors
+Search Bar
+File Upload Form
+2. Navigation Components
+Navbar with Dropdown
+Sidebar Menu
+Breadcrumbs
+Pagination
+Vertical Navigation
+Tab Navigation
+Mega Menu
+Sticky Header
+Mobile Drawer Menu
+Footer
+3. Buttons and Controls
+Primary Button
+Icon Button
+Floating Action Button
+Toggle Button
+Dropdown Button
+Split Button
+Loading Button
+Outline Button
+Social Media Buttons
+Grouped Buttons
+4. Cards and Layout Components
+Profile Card
+Blog Post Card
+Product Card
+Testimonial Card
+Pricing Card
+User Review Card
+Event Card
+Notification Card
+Dashboard Card
+Collapsible Card
+5. Input Fields
+Text Input Field
+Password Input Field
+Date Picker
+Time Picker
+Color Picker
+Search Input
+Range Slider
+Checkbox Group
+Radio Button Group
+File Upload Field
+6. Lists and Tables
+Simple List
+Selectable List
+Expandable List
+Filterable List
+Dynamic Table
+Paginated Table
+Sortable Table
+Editable Table
+Data Grid
+Timeline Component
+7. Modals and Popups
+Basic Modal
+Confirmation Dialog
+Image Viewer Modal
+Video Player Modal
+Form Modal
+Notifications Popup
+Tooltip
+Popover
+Alert Dialog
+Sidebar Drawer
+8. Charts and Graphs
+Bar Chart
+Line Chart
+Pie Chart
+Area Chart
+Scatter Plot
+Radar Chart
+Progress Bar
+Circular Progress Indicator
+Donut Chart
+Heatmap
+9. Utility Components
+Accordion
+Tabs
+Breadcrumbs
+Scroll-to-Top Button
+Back-to-Top Button
+Loader/Spinner
+Skeleton Loader
+Divider
+Rating Stars
+Notification Toast
+10. Media and Display Components
+Avatar
+Image Gallery
+Video Carousel
+Audio Player
+Banner with Call-to-Action
