@@ -15,7 +15,7 @@ Form Validation Errors
 Search Bar
 File Upload Form
 2. Navigation Components
-Navbar with Dropdown
+Navbar with Dropdown ✅
 Sidebar Menu
 Breadcrumbs
 Pagination

@@ -3,6 +3,7 @@ import TLogin from './TailwindComponents/TLogin'
 import TRegistration from './TailwindComponents/TRegistrations'
 import TFileUpload from './TailwindComponents/TFileUpload'
 import TNavbarDropdown from './TailwindComponents/TNavbarDropdown'
+import TPagination from './TailwindComponents/TPaginaation'
 
 const App = () => {
   return (
@@ -11,7 +12,8 @@ const App = () => {
       {/* <TRegistration /> */}
       {/* <TFileUpload />
       < */}
-      <TNavbarDropdown />
+      {/* <TNavbarDropdown /> */}
+      <TPagination />
     </div>
   )
 }
