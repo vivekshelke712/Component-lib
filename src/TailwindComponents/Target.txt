@@ -16,11 +16,11 @@ Search Bar
 File Upload Form
 2. Navigation Components
 Navbar with Dropdown ✅
-Sidebar Menu
+Sidebar ✅
 Breadcrumbs
-Pagination
+Pagination✅
 Vertical Navigation
-Tab Navigation
+Tab Navigation 
 Mega Menu
 Sticky Header
 Mobile Drawer Menu
