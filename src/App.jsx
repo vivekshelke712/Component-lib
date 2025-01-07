@@ -4,7 +4,8 @@ import TRegistration from './TailwindComponents/TRegistrations'
 import TFileUpload from './TailwindComponents/TFileUpload'
 import TNavbarDropdown from './TailwindComponents/TNavbarDropdown'
 import TPagination from './TailwindComponents/TPaginaation'
-import SCLogin from './ShadCN/SCLogin'
+// import SCLogin from './ShadCN/SCLogin'
+import TSidebar from './TailwindComponents/TSidebar'
 
 const App = () => {
   return (
@@ -15,7 +16,8 @@ const App = () => {
       < */}
       {/* <TNavbarDropdown /> */}
       {/* <TPagination /> */}
-      <SCLogin />
+      {/* <SCLogin /> */}
+      <TSidebar />
 
     </div>
   )
