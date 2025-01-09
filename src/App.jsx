@@ -8,6 +8,7 @@ import TPagination from './TailwindComponents/TPaginaation'
 import TSidebar from './TailwindComponents/TSidebar'
 import TNavigation from './TailwindComponents/TNavigation'
 import TDrawerMenu from './TailwindComponents/TDrawerMenu'
+import StaticBreadcrumb from './TailwindComponents/TBreadScrumb'
 
 const App = () => {
   return (
@@ -22,6 +23,7 @@ const App = () => {
       {/* <TSidebar /> */}
       {/* <TNavigation /> */}
       {/* <TDrawerMenu /> */}
+      <StaticBreadcrumb />
 
     </div>
   )

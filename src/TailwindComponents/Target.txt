@@ -17,7 +17,7 @@ File Upload Form
 2. Navigation Components
 Navbar with Dropdown ✅
 Sidebar ✅
-Breadcrumbs
+Breadcrumbs✅
 Pagination✅
 Vertical Navigation
 Tab Navigation 
