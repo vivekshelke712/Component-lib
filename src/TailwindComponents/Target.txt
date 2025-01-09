@@ -21,9 +21,9 @@ Breadcrumbs
 Pagination✅
 Vertical Navigation
 Tab Navigation 
-Mega Menu
+Mega Menu ✅
 Sticky Header
-Mobile Drawer Menu
+Mobile Drawer Menu✅
 Footer
 3. Buttons and Controls
 Primary Button

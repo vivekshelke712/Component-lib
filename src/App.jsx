@@ -7,6 +7,7 @@ import TPagination from './TailwindComponents/TPaginaation'
 // import SCLogin from './ShadCN/SCLogin'
 import TSidebar from './TailwindComponents/TSidebar'
 import TNavigation from './TailwindComponents/TNavigation'
+import TDrawerMenu from './TailwindComponents/TDrawerMenu'
 
 const App = () => {
   return (
@@ -19,7 +20,8 @@ const App = () => {
       {/* <TPagination /> */}
       {/* <SCLogin /> */}
       {/* <TSidebar /> */}
-      <TNavigation />
+      {/* <TNavigation /> */}
+      {/* <TDrawerMenu /> */}
 
     </div>
   )
