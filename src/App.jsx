@@ -10,6 +10,7 @@ import TNavigation from './TailwindComponents/TNavigation'
 import TDrawerMenu from './TailwindComponents/TDrawerMenu'
 import StaticBreadcrumb from './TailwindComponents/TBreadScrumb'
 import TBUTTONSandControl from './TailwindComponents/TBUTTONSandControl '
+import IconDisplay from './TailwindComponents/IconDisplay'
 
 const App = () => {
   return (
@@ -25,7 +26,8 @@ const App = () => {
       {/* <TNavigation /> */}
       {/* <TDrawerMenu /> */}
       {/* <StaticBreadcrumb /> */}
-      <TBUTTONSandControl />
+      {/* <TBUTTONSandControl /> */}
+      <IconDisplay />
 
     </div>
   )
