@@ -11,6 +11,7 @@ import TDrawerMenu from './TailwindComponents/TDrawerMenu'
 import StaticBreadcrumb from './TailwindComponents/TBreadScrumb'
 import TBUTTONSandControl from './TailwindComponents/TBUTTONSandControl '
 import IconDisplay from './TailwindComponents/IconDisplay'
+import IconGallery from './TailwindComponents/IconGallary'
 
 const App = () => {
   return (
@@ -27,7 +28,8 @@ const App = () => {
       {/* <TDrawerMenu /> */}
       {/* <StaticBreadcrumb /> */}
       {/* <TBUTTONSandControl /> */}
-      <IconDisplay />
+      {/* <IconDisplay /> */}
+      <IconGallery />
 
     </div>
   )
