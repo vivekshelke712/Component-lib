@@ -13,6 +13,7 @@ import TBUTTONSandControl from './TailwindComponents/TBUTTONSandControl '
 import IconDisplay from './TailwindComponents/IconDisplay'
 import IconGallery from './TailwindComponents/IconGallary'
 import Tfooter from './TailwindComponents/TFooter'
+import TSocialMediaButtons from './TailwindComponents/TSocialMediaButtons'
 
 const App = () => {
   return (
@@ -31,7 +32,8 @@ const App = () => {
       {/* <TBUTTONSandControl /> */}
       {/* <IconDisplay /> */}
       {/* <IconGallery /> */}
-      <Tfooter />
+      {/* <Tfooter /> */}
+      <TSocialMediaButtons />
 
     </div>
   )

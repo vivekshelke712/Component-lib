@@ -34,7 +34,7 @@ Dropdown Button
 Split Button
 Loading Button
 Outline Button
-Social Media Buttons
+Social Media Buttons 
 Grouped Buttons
 4. Cards and Layout Components
 Profile Card
