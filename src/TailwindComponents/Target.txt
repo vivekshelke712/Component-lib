@@ -24,7 +24,7 @@ Tab Navigation
 Mega Menu ✅
 Sticky Header
 Mobile Drawer Menu✅
-Footer
+Footer✅
 3. Buttons and Controls ✅
 Primary Button
 Icon Button

@@ -12,6 +12,7 @@ import StaticBreadcrumb from './TailwindComponents/TBreadScrumb'
 import TBUTTONSandControl from './TailwindComponents/TBUTTONSandControl '
 import IconDisplay from './TailwindComponents/IconDisplay'
 import IconGallery from './TailwindComponents/IconGallary'
+import Tfooter from './TailwindComponents/TFooter'
 
 const App = () => {
   return (
@@ -29,7 +30,8 @@ const App = () => {
       {/* <StaticBreadcrumb /> */}
       {/* <TBUTTONSandControl /> */}
       {/* <IconDisplay /> */}
-      <IconGallery />
+      {/* <IconGallery /> */}
+      <Tfooter />
 
     </div>
   )
