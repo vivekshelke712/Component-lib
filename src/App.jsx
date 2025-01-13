@@ -15,6 +15,7 @@ import IconGallery from './TailwindComponents/IconGallary'
 import Tfooter from './TailwindComponents/TFooter'
 import TSocialMediaButtons from './TailwindComponents/TSocialMediaButtons'
 import ProfileCard from './TailwindComponents/TProfileCard'
+import TBasicModal from './TailwindComponents/TBasicModal'
 
 const App = () => {
   return (
@@ -35,7 +36,8 @@ const App = () => {
       {/* <IconGallery /> */}
       {/* <Tfooter /> */}
       {/* <TSocialMediaButtons /> */}
-      <ProfileCard />
+      {/* <ProfileCard /> */}
+      <TBasicModal />
 
     </div>
   )

@@ -46,9 +46,9 @@ User Review Card
 Event Card 
 Notification Card
 Dashboard Card
-Collapsible Card
+Collapsible Card 
 5. Input Fields
-Text Input Field
+Text Input Field 
 Password Input Field
 Date Picker
 Time Picker
@@ -67,7 +67,7 @@ Dynamic Table
 Paginated Table
 Sortable Table
 Editable Table
-Data Grid
+Data Grid 
 Timeline Component
 7. Modals and Popups
 Basic Modal
