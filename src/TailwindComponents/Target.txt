@@ -38,12 +38,12 @@ Social Media Buttons
 Grouped Buttons
 4. Cards and Layout Components
 Profile Card ✅
-Blog Post Card
-Product Card
-Testimonial Card
+Blog Post Card ✅
+Product Card 
+Testimonial Card 
 Pricing Card
 User Review Card
-Event Card
+Event Card 
 Notification Card
 Dashboard Card
 Collapsible Card
