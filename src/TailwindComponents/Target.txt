@@ -37,7 +37,7 @@ Outline Button
 Social Media Buttons 
 Grouped Buttons
 4. Cards and Layout Components
-Profile Card
+Profile Card ✅
 Blog Post Card
 Product Card
 Testimonial Card

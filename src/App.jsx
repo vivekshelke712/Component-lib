@@ -14,6 +14,7 @@ import IconDisplay from './TailwindComponents/IconDisplay'
 import IconGallery from './TailwindComponents/IconGallary'
 import Tfooter from './TailwindComponents/TFooter'
 import TSocialMediaButtons from './TailwindComponents/TSocialMediaButtons'
+import ProfileCard from './TailwindComponents/TProfileCard'
 
 const App = () => {
   return (
@@ -33,7 +34,8 @@ const App = () => {
       {/* <IconDisplay /> */}
       {/* <IconGallery /> */}
       {/* <Tfooter /> */}
-      <TSocialMediaButtons />
+      {/* <TSocialMediaButtons /> */}
+      <ProfileCard />
 
     </div>
   )
