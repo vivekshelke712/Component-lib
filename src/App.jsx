@@ -17,6 +17,7 @@ import TSocialMediaButtons from './TailwindComponents/TSocialMediaButtons'
 import ProfileCard from './TailwindComponents/TProfileCard'
 import TBasicModal from './TailwindComponents/TBasicModal'
 import BarChart from './TailwindComponents/Charts/BarChart'
+import LineChart from './TailwindComponents/Charts/LineChart'
 
 const App = () => {
   return (
@@ -39,7 +40,8 @@ const App = () => {
       {/* <TSocialMediaButtons /> */}
       {/* <ProfileCard /> */}
       {/* <TBasicModal /> */}
-      <BarChart />
+      {/* <BarChart /> */}
+      <LineChart />
 
     </div>
   )
