@@ -81,8 +81,8 @@ Popover
 Alert Dialog
 Sidebar Drawer
 8. Charts and Graphs
-Bar Chart
-Line Chart
+Bar Chart ✅
+Line Chart ✅
 Pie Chart
 Area Chart
 Scatter Plot
