@@ -70,7 +70,7 @@ Editable Table
 Data Grid 
 Timeline Component
 7. Modals and Popups
-Basic Modal
+Basic Modal ✅
 Confirmation Dialog
 Image Viewer Modal
 Video Player Modal

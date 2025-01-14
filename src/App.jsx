@@ -16,6 +16,7 @@ import Tfooter from './TailwindComponents/TFooter'
 import TSocialMediaButtons from './TailwindComponents/TSocialMediaButtons'
 import ProfileCard from './TailwindComponents/TProfileCard'
 import TBasicModal from './TailwindComponents/TBasicModal'
+import BarChart from './TailwindComponents/Charts/BarChart'
 
 const App = () => {
   return (
@@ -37,7 +38,8 @@ const App = () => {
       {/* <Tfooter /> */}
       {/* <TSocialMediaButtons /> */}
       {/* <ProfileCard /> */}
-      <TBasicModal />
+      {/* <TBasicModal /> */}
+      <BarChart />
 
     </div>
   )
