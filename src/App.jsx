@@ -20,6 +20,7 @@ import BarChart from './TailwindComponents/Charts/BarChart'
 import LineChart from './TailwindComponents/Charts/LineChart'
 import PieChart from './TailwindComponents/Charts/PieChart'
 import AreaChartComponent from './TailwindComponents/Charts/AreaChartComponent'
+import ProgressBar from './TailwindComponents/Charts/ProgressBar'
 
 const App = () => {
   return (
@@ -45,7 +46,8 @@ const App = () => {
       {/* <BarChart /> */}
       {/* <LineChart /> */}
       {/* <PieChart /> */}
-      <AreaChartComponent />
+      {/* <AreaChartComponent /> */}
+      {/* <ProgressBar /> */}
     </div>
   )
 }
