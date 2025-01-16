@@ -18,6 +18,8 @@ import ProfileCard from './TailwindComponents/TProfileCard'
 import TBasicModal from './TailwindComponents/TBasicModal'
 import BarChart from './TailwindComponents/Charts/BarChart'
 import LineChart from './TailwindComponents/Charts/LineChart'
+import PieChart from './TailwindComponents/Charts/PieChart'
+import AreaChartComponent from './TailwindComponents/Charts/AreaChartComponent'
 
 const App = () => {
   return (
@@ -41,8 +43,9 @@ const App = () => {
       {/* <ProfileCard /> */}
       {/* <TBasicModal /> */}
       {/* <BarChart /> */}
-      <LineChart />
-
+      {/* <LineChart /> */}
+      {/* <PieChart /> */}
+      <AreaChartComponent />
     </div>
   )
 }
