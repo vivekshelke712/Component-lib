@@ -84,10 +84,10 @@ Sidebar Drawer
 Bar Chart ✅
 Line Chart ✅
 Pie Chart ✅
-Area Chart 
+Area Chart ✅
 Scatter Plot
 Radar Chart
-Progress Bar
+Progress Bar 
 Circular Progress Indicator
 Donut Chart
 Heatmap
