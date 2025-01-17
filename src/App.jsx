@@ -24,6 +24,7 @@ import ProgressBar from './TailwindComponents/Charts/ProgressBar'
 import Spinner from './TailwindComponents/Spinner'
 import TwoFactorAuth from './TailwindComponents/TwoFactorAuth'
 import ToastExample from './ToastExample'
+import HotToastExample from './TailwindComponents/HotToastExample'
 
 const App = () => {
   return (
@@ -53,7 +54,8 @@ const App = () => {
       {/* <ProgressBar /> */}
       {/* <Spinner /> */}
       {/* <TwoFactorAuth /> */}
-      <ToastExample />
+      {/* <ToastExample /> */}
+      <HotToastExample />
     </div>
   )
 }
