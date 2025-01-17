@@ -85,9 +85,9 @@ Bar Chart ✅
 Line Chart ✅
 Pie Chart ✅
 Area Chart ✅
-Scatter Plot
+Scatter Plot 
 Radar Chart
-Progress Bar 
+Progress Bar ✅
 Circular Progress Indicator
 Donut Chart
 Heatmap
@@ -97,7 +97,7 @@ Tabs
 Breadcrumbs
 Scroll-to-Top Button
 Back-to-Top Button
-Loader/Spinner
+Loader/Spinner ✅
 Skeleton Loader
 Divider
 Rating Stars
