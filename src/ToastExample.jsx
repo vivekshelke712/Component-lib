@@ -3,40 +3,40 @@ import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
 const ToastExample = () => {
-  // Functions to display different types of toasts
+  // Toast display logic
   const showToast = (type) => {
     switch (type) {
       case 'success':
-        toast.success('This is a success toast!', {
-          position: toast.POSITION.TOP_CENTER,
+        toast.success('Success Toast: Operation was successful!', {
+          position: 'top-center', // Correct position key
         });
         break;
       case 'error':
-        toast.error('This is an error toast!', {
-          position: toast.POSITION.TOP_CENTER,
+        toast.error('Error Toast: Something went wrong!', {
+          position: 'top-center',
         });
         break;
       case 'info':
-        toast.info('This is an info toast!', {
-          position: toast.POSITION.TOP_CENTER,
+        toast.info('Info Toast: Here is some information!', {
+          position: 'top-center',
         });
         break;
       case 'warning':
-        toast.warn('This is a warning toast!', {
-          position: toast.POSITION.TOP_CENTER,
+        toast.warning('Warning Toast: Be cautious!', {
+          position: 'top-center',
         });
         break;
       default:
-        toast('This is a default toast!', {
-          position: toast.POSITION.TOP_CENTER,
+        toast('Default Toast: This is a generic toast!', {
+          position: 'top-center',
         });
         break;
     }
   };
 
   return (
-    <div className="flex flex-col items-center justify-center h-screen gap-4">
-      <h1 className="text-2xl font-bold mb-6">React Toast Example</h1>
+    <div className="flex flex-col items-center justify-center h-screen gap-4 bg-gray-100">
+      <h1 className="text-2xl font-bold mb-6">React Toastify Example</h1>
       <button
         onClick={() => showToast('success')}
         className="px-4 py-2 bg-green-500 text-white rounded hover:bg-green-700"
