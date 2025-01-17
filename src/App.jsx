@@ -23,6 +23,7 @@ import AreaChartComponent from './TailwindComponents/Charts/AreaChartComponent'
 import ProgressBar from './TailwindComponents/Charts/ProgressBar'
 import Spinner from './TailwindComponents/Spinner'
 import TwoFactorAuth from './TailwindComponents/TwoFactorAuth'
+import ToastExample from './ToastExample'
 
 const App = () => {
   return (
@@ -50,8 +51,9 @@ const App = () => {
       {/* <PieChart /> */}
       {/* <AreaChartComponent /> */}
       {/* <ProgressBar /> */}
-      <Spinner />
-      <TwoFactorAuth />
+      {/* <Spinner /> */}
+      {/* <TwoFactorAuth /> */}
+      <ToastExample />
     </div>
   )
 }
