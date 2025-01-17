@@ -21,6 +21,8 @@ import LineChart from './TailwindComponents/Charts/LineChart'
 import PieChart from './TailwindComponents/Charts/PieChart'
 import AreaChartComponent from './TailwindComponents/Charts/AreaChartComponent'
 import ProgressBar from './TailwindComponents/Charts/ProgressBar'
+import Spinner from './TailwindComponents/Spinner'
+import TwoFactorAuth from './TailwindComponents/TwoFactorAuth'
 
 const App = () => {
   return (
@@ -48,6 +50,8 @@ const App = () => {
       {/* <PieChart /> */}
       {/* <AreaChartComponent /> */}
       {/* <ProgressBar /> */}
+      <Spinner />
+      <TwoFactorAuth />
     </div>
   )
 }

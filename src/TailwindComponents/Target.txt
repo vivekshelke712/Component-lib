@@ -3,7 +3,7 @@ Login Form ✅
 Registration Form ✅
 Forgot Password Form
 OTP Verification
-Two-Factor Authentication
+Two-Factor Authentication✅
 Password Strength Meter
 Profile Update Form
 Address Form
