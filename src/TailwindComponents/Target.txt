@@ -53,7 +53,7 @@ Password Input Field
 Date Picker
 Time Picker
 Color Picker
-Search Input
+Search Input ✅
 Range Slider
 Checkbox Group
 Radio Button Group
