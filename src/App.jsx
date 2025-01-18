@@ -26,6 +26,7 @@ import TwoFactorAuth from './TailwindComponents/TwoFactorAuth'
 import ToastExample from './ToastExample'
 import HotToastExample from './TailwindComponents/HotToastExample'
 import ContactForm from './TailwindComponents/ContactForm'
+import SocialMediaButtons from './TailwindComponents/SocialMediaButtons'
 
 const App = () => {
   return (
@@ -57,7 +58,8 @@ const App = () => {
       {/* <TwoFactorAuth /> */}
       {/* <ToastExample /> */}
       {/* <HotToastExample /> */}
-      <ContactForm />
+      {/* <ContactForm /> */}
+      <SocialMediaButtons />
     </div>
   )
 }
