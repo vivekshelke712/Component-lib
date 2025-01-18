@@ -28,6 +28,7 @@ import HotToastExample from './TailwindComponents/HotToastExample'
 import ContactForm from './TailwindComponents/ContactForm'
 import SocialMediaButtons from './TailwindComponents/SocialMediaButtons'
 import PricingCard from './TailwindComponents/PricingCard'
+import AdminDashboard from './TailwindComponents/AdminDashboard'
 
 const App = () => {
   return (
@@ -61,7 +62,9 @@ const App = () => {
       {/* <HotToastExample /> */}
       {/* <ContactForm /> */}
       {/* <SocialMediaButtons /> */}
-      <PricingCard />
+      {/* <PricingCard /> */}
+      <AdminDashboard />
+
     </div>
   )
 }
