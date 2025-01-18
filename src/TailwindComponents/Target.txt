@@ -41,7 +41,7 @@ Profile Card ✅
 Blog Post Card ✅
 Product Card 
 Testimonial Card 
-Pricing Card
+Pricing Card✅
 User Review Card
 Event Card 
 Notification Card
