@@ -29,6 +29,8 @@ import ContactForm from './TailwindComponents/ContactForm'
 import SocialMediaButtons from './TailwindComponents/SocialMediaButtons'
 import PricingCard from './TailwindComponents/PricingCard'
 import AdminDashboard from './TailwindComponents/AdminDashboard'
+import SearchInput from './TailwindComponents/SearchInput'
+import TableComponent from './TailwindComponents/TableComponent'
 
 const App = () => {
   return (
@@ -63,7 +65,9 @@ const App = () => {
       {/* <ContactForm /> */}
       {/* <SocialMediaButtons /> */}
       {/* <PricingCard /> */}
-      <AdminDashboard />
+      {/* <AdminDashboard /> */}
+      <SearchInput /> 
+      <TableComponent />
 
     </div>
   )
