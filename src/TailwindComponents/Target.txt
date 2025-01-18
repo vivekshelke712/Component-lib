@@ -7,7 +7,7 @@ Two-Factor Authentication✅
 Password Strength Meter
 Profile Update Form
 Address Form
-Contact Form
+Contact Form✅
 Multi-Step Form
 Subscription Form
 Feedback Form

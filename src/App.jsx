@@ -25,6 +25,7 @@ import Spinner from './TailwindComponents/Spinner'
 import TwoFactorAuth from './TailwindComponents/TwoFactorAuth'
 import ToastExample from './ToastExample'
 import HotToastExample from './TailwindComponents/HotToastExample'
+import ContactForm from './TailwindComponents/ContactForm'
 
 const App = () => {
   return (
@@ -55,7 +56,8 @@ const App = () => {
       {/* <Spinner /> */}
       {/* <TwoFactorAuth /> */}
       {/* <ToastExample /> */}
-      <HotToastExample />
+      {/* <HotToastExample /> */}
+      <ContactForm />
     </div>
   )
 }
