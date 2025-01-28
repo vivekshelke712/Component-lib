@@ -31,6 +31,8 @@ import PricingCard from './TailwindComponents/PricingCard'
 import AdminDashboard from './TailwindComponents/AdminDashboard'
 import SearchInput from './TailwindComponents/SearchInput'
 import TableComponent from './TailwindComponents/TableComponent'
+import { GiAccordion } from 'react-icons/gi'
+import Accordion from './TailwindComponents/Accordian'
 
 const App = () => {
   return (
@@ -68,6 +70,7 @@ const App = () => {
       {/* <AdminDashboard /> */}
       <SearchInput /> 
       <TableComponent />
+      <Accordion />
 
     </div>
   )
