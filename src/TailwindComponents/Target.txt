@@ -77,7 +77,7 @@ Video Player Modal
 Form Modal
 Notifications Popup
 Tooltip
-Popover
+Popover✅
 Alert Dialog
 Sidebar Drawer
 8. Charts and Graphs

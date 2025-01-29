@@ -68,9 +68,9 @@ const App = () => {
       {/* <SocialMediaButtons /> */}
       {/* <PricingCard /> */}
       {/* <AdminDashboard /> */}
-      <SearchInput /> 
+      {/* <SearchInput /> 
       <TableComponent />
-      <Accordion />
+      <Accordion /> */}
 
     </div>
   )
