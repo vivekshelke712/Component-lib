@@ -34,6 +34,7 @@ import TableComponent from './TailwindComponents/TableComponent'
 import { GiAccordion } from 'react-icons/gi'
 import Accordion from './TailwindComponents/Accordian'
 import Popover from './TailwindComponents/Popover'
+import NotificationCard from './TailwindComponents/Notificationcard'
 
 const App = () => {
   return (
@@ -72,7 +73,8 @@ const App = () => {
       {/* <SearchInput /> 
       <TableComponent />
       <Accordion /> */}
-      <Popover />
+      {/* <Popover /> */}
+      <NotificationCard />
 
     </div>
   )
