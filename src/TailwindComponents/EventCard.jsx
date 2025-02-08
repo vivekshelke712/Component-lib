@@ -10,12 +10,7 @@ const EventCard = () => {
   };
 
   return (
-    <div className="max-w-sm mx-auto bg-white border border-gray-200 rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300">
-      <img
-        className="w-full h-48 object-cover rounded-t-lg"
-        src={event.image}
-        alt={event.title}
-      />
+    
       <div className="p-4">
         <h2 className="text-lg font-semibold text-gray-800">{event.title}</h2>
         <p className="text-sm text-gray-600 mt-1">{event.date}</p>
